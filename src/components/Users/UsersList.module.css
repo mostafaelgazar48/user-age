@@ -1,0 +1,28 @@
+.user{
+    width: 45%;
+    margin: auto;
+    padding: 8px;
+    position: relative;
+    top:80px
+}
+
+.user li{
+    list-style: none;
+    text-align: center;
+    display: block;
+    padding: 10px;
+   
+    margin: 3px;
+} 
+.user button {
+    font: inherit;
+    border: 1px solid #c77724db;
+    background: #c77724db;
+    color: white;
+    padding: 0.25rem 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 1px rgba(0, 0, 0, .5);
+    margin-left: 10px;
+  }
+

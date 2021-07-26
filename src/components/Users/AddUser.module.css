@@ -1,0 +1,32 @@
+.input {
+    top: 48px;
+    position: relative;
+   
+    width: 40%;
+    margin: auto;
+    padding: 8px;
+    
+}
+.input label {
+    display: block;
+    width: 100%;
+    color: black;
+    font-size: 1rem;
+    margin-bottom: 3px;
+
+}
+.input input{
+    display: block;
+    width: 100%;
+    margin-bottom: 4px;
+   border: 1px solid #a7a7a7;
+   border-radius: 3px;
+   padding: 6px;
+
+}
+
+
+.input input:focus {
+    outline: none;
+    border-color: #535353;
+  }
